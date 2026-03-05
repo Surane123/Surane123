@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <h1 align="center">Hi, I'm Surender 👋</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Lifelong Learner</h3>
+<h3 align="center">Full-Stack Developer | Java DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/Surane123">
@@ -15,71 +15,96 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Surane123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:surender.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently building: **modern web apps and automation projects**
-- 🌱 Learning: **System Design, Cloud, and AI integrations**
-- 💼 Open to: **Internships, freelance, and collaboration**
-- 🎯 Goal: **Build products that solve real user problems**
+- 🎓 Computer Science Student  
+- 💻 Passionate about **Full-Stack Development and Data Structures**
+- 🧠 Practicing **Java DSA & problem solving daily**
+- 🌱 Currently learning **System Design and scalable backend architecture**
+- 🚀 Building **real-world web applications**
+- 🎯 Goal: Become a **skilled software engineer and product builder**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 
-### Frontend
+---
+
+## Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
 
-### Backend & Tools
+---
+
+## Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 1) Project Name
-**Short project pitch** (what problem it solves in one line).  
-**Tech:** React, Node.js, MongoDB  
-**Highlights:** Authentication, dashboard, responsive UI, API integration  
+## 📌 Full Stack Web Application
+A modern web application with authentication and database integration.
 
-🔗 [Live Demo](https://your-demo-link.com) • [Repository](https://github.com/Surane123/your-repo)
+**Tech Stack**
+- React
+- Node.js
+- Express
+- MongoDB
 
-### 2) Project Name
-**Short project pitch** (what problem it solves in one line).  
-**Tech:** TypeScript, Express, MySQL  
-**Highlights:** Scalable backend, role-based access, clean architecture  
+**Features**
+- User authentication
+- REST API integration
+- Responsive UI
+- Secure backend
 
-🔗 [Live Demo](https://your-demo-link.com) • [Repository](https://github.com/Surane123/your-repo)
+🔗 Repository  
+https://github.com/Surane123
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 Java DSA Practice Repository
+Collection of **Data Structures and Algorithms solutions** in Java.
+
+**Topics Covered**
+
+- Arrays
+- Strings
+- Recursion
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+
+🔗 Repository  
+https://github.com/Surane123
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surane123&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -92,19 +117,22 @@
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- ✅ Built and deployed multiple full-stack projects
-- ✅ Consistent GitHub contributions
-- ✅ Strong focus on clean code and user experience
+- ✅ Consistent **GitHub contributions**
+- ✅ Practicing **DSA problems regularly**
+- ✅ Building **full-stack projects**
+- ✅ Strong focus on **clean code and problem solving**
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
-- GitHub: [@Surane123](https://github.com/Surane123)
-- LinkedIn: [YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- Email: **YOUR_EMAIL@gmail.com**
+GitHub  
+https://github.com/Surane123  
+
+Email  
+surender444566@gmail.com
 
 ---
 

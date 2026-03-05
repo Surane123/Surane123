@@ -106,15 +106,11 @@ https://github.com/Surane123
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surane123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Surane123&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surane123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+- 💻 Active GitHub developer focused on **DSA and Full-Stack projects**
+- 📈 Regular commits and continuous learning
+- 🔧 Building and improving real-world applications
+- 🚀 Exploring **System Design, Backend Development, and Scalable Systems**
+  
 ---
 
 # 🏆 Achievements

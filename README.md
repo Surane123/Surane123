@@ -104,7 +104,7 @@ https://github.com/Surane123
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surane123&show_icons=true&theme=tokyonight&hide_border=true" />

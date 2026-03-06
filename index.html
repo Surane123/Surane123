@@ -1,0 +1,46 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Classic Snake Game</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Classic Snake</h1>
+
+    <section class="hud" aria-label="Scoreboard">
+      <p>Score: <span id="score">0</span></p>
+      <p>High Score: <span id="high-score">0</span></p>
+    </section>
+
+    <canvas
+      id="game"
+      width="400"
+      height="400"
+      role="img"
+      aria-label="Snake game board"
+    ></canvas>
+
+    <section class="controls" aria-label="Game controls">
+      <button id="start-btn" type="button">Start / Restart (R)</button>
+      <button id="pause-btn" type="button">Pause (P)</button>
+    </section>
+
+    <p class="help">Use arrow keys or WASD to move. Avoid rocks and walls.</p>
+
+    <section class="touch-controls" aria-label="Touch controls">
+      <button data-dir="up" type="button">Up</button>
+      <div class="touch-row">
+        <button data-dir="left" type="button">Left</button>
+        <button data-dir="down" type="button">Down</button>
+        <button data-dir="right" type="button">Right</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="game.js"></script>
+</body>
+</html>
+

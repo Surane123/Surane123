@@ -103,6 +103,14 @@ Collection of **Data Structures and Algorithms solutions** in Java.
 https://github.com/Surane123
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Surane123&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
